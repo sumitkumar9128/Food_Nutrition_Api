@@ -8,7 +8,6 @@ Retrieve all saved food data for easy access and analysis.
 This API is built using Express.js and utilizes MongoDB for data storage.
 
 Note- it is very basic just build for practice. 
-and by mistakenly I uploaded node modules but you can ignore it
 
 
 
