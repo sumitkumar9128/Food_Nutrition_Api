@@ -23,9 +23,6 @@ Install dependencies: npm install
 Set up your MongoDB connection (refer to db.js).
 Start the server: node app.
 
-You can also ignore this steps as  i already uploaded node_modules
-
-
 ## Features
 
 - Simple and easy-to-use API for saving and retrieving food data.
